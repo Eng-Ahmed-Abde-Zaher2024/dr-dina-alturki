@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://eng-ahmed-abde-zaher2024.github.io/dr-dina-alturki/sitemap.xml

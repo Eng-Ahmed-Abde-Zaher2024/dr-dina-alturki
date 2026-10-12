@@ -751,8 +751,7 @@ article {
 /* خلفية متوافقة مع مجال علاج الألم */
 .hero-pain {
   background-image:
-    linear-gradient(to left, hsla(186, 100%, 12%, 0.96) 30%, hsla(186, 100%, 19%, 0.82) 60%, hsla(182, 100%, 35%, 0.45) 100%),
-    url('https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?q=80&w=1920&auto=format&fit=crop');
+    background-image: linear-gradient(to left, hsl(186deg 100% 3.01% / 96%) 30%, hsl(186deg 100% 19%) 60%, hsla(182, 100%, 35%, 0.45) 100%), url(https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?q=80&w=1920&auto=format&fit=crop);
   background-position: center left;
   background-size: cover;
 }
